@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "37ED6445-D48D-496E-BBE9-A257D7E4C75A"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC19C2D0-B112-4A58-8E4A-B22BE894D5F1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kilowott/Controller/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "filterMovieLocalData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FC19C2D0-B112-4A58-8E4A-B22BE894D5F1 - 1c2d7c7163728db2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kilowott.MovieDetailsViewController.filterLocalData() -&gt; Swift.Bool"
+                  moduleName = "kilowott"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amt/Desktop/kilowott/kilowott/Controller/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "1424">
+               </Location>
+               <Location
+                  uuid = "FC19C2D0-B112-4A58-8E4A-B22BE894D5F1 - 1e7398857473af47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kilowott.MovieDetailsViewController.filterMovieLocalData() -&gt; Swift.Bool"
+                  moduleName = "kilowott"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amt/Desktop/kilowott/kilowott/Controller/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "1288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80680E10-4193-4B42-8F35-4E6EB9155425"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kilowott/Controller/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "filterMovieLocalData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86F48768-80E3-4532-AE88-C5BC6FE6F62A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kilowott/Controller/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "filterMovieLocalData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AFE70225-A803-470A-8760-BC69BB6B9710"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kilowott/Controller/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "saveToCoreData(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AFE70225-A803-470A-8760-BC69BB6B9710 - f6ff7a27e4f9a46c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kilowott.MovieDetailsViewController.saveToCoreData(__C.UIButton) -&gt; ()"
+                  moduleName = "kilowott"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amt/Desktop/kilowott/kilowott/Controller/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "AFE70225-A803-470A-8760-BC69BB6B9710 - a6ed957676e242ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in kilowott.MovieDetailsViewController.saveToCoreData(__C.UIButton) -&gt; ()"
+                  moduleName = "kilowott"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amt/Desktop/kilowott/kilowott/Controller/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1AC801BF-EC39-4B17-B291-A06D983E0377"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kilowott/Controller/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "filterMovieLocalData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1AC801BF-EC39-4B17-B291-A06D983E0377 - 1c2d7c716372f3dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kilowott.MovieDetailsViewController.filterLocalData() -&gt; Swift.Bool"
+                  moduleName = "kilowott"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amt/Desktop/kilowott/kilowott/Controller/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "1396">
+               </Location>
+               <Location
+                  uuid = "1AC801BF-EC39-4B17-B291-A06D983E0377 - 1c2d7c7163728caa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kilowott.MovieDetailsViewController.filterLocalData() -&gt; Swift.Bool"
+                  moduleName = "kilowott"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amt/Desktop/kilowott/kilowott/Controller/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "508">
+               </Location>
+               <Location
+                  uuid = "1AC801BF-EC39-4B17-B291-A06D983E0377 - 1e7398857473ac7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kilowott.MovieDetailsViewController.filterMovieLocalData() -&gt; Swift.Bool"
+                  moduleName = "kilowott"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amt/Desktop/kilowott/kilowott/Controller/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "1AC801BF-EC39-4B17-B291-A06D983E0377 - 1e7398857473ac7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kilowott.MovieDetailsViewController.filterMovieLocalData() -&gt; Swift.Bool"
+                  moduleName = "kilowott"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amt/Desktop/kilowott/kilowott/Controller/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "596">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C9BFC2C-42A1-4B46-8E94-7B05ABAA2F45"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kilowott/Controller/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "saveToCoreData(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6C9BFC2C-42A1-4B46-8E94-7B05ABAA2F45 - a6ed957676e24366"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in kilowott.MovieDetailsViewController.saveToCoreData(__C.UIButton) -&gt; ()"
+                  moduleName = "kilowott"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amt/Desktop/kilowott/kilowott/Controller/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "6C9BFC2C-42A1-4B46-8E94-7B05ABAA2F45 - a6ed957676e24418"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in kilowott.MovieDetailsViewController.saveToCoreData(__C.UIButton) -&gt; ()"
+                  moduleName = "kilowott"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amt/Desktop/kilowott/kilowott/Controller/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A45CE2F-BEF1-4DD2-9CEE-6D12B8C1EE9C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kilowott/Controller/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "saveToCoreData(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4A45CE2F-BEF1-4DD2-9CEE-6D12B8C1EE9C - a6ed957676e24320"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in kilowott.MovieDetailsViewController.saveToCoreData(__C.UIButton) -&gt; ()"
+                  moduleName = "kilowott"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amt/Desktop/kilowott/kilowott/Controller/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "4A45CE2F-BEF1-4DD2-9CEE-6D12B8C1EE9C - a6ed957676e247da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in kilowott.MovieDetailsViewController.saveToCoreData(__C.UIButton) -&gt; ()"
+                  moduleName = "kilowott"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amt/Desktop/kilowott/kilowott/Controller/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92CDDE2F-9317-4B00-B98F-B9B24A69403D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kilowott/Controller/MoviesListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "signOut(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E57F45F-349D-437B-B22B-B6BD63FEDC05"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kilowott/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "setupGoogle()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8E57F45F-349D-437B-B22B-B6BD63FEDC05 - 945a8fd17dded7c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.GIDSignInResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in kilowott.ViewController.setupGoogle() -&gt; ()"
+                  moduleName = "kilowott"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amt/Desktop/kilowott/kilowott/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1624">
+               </Location>
+               <Location
+                  uuid = "8E57F45F-349D-437B-B22B-B6BD63FEDC05 - 945a8fd17dded7c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.GIDSignInResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in kilowott.ViewController.setupGoogle() -&gt; ()"
+                  moduleName = "kilowott"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amt/Desktop/kilowott/kilowott/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "2112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1EA6AA4-F5D9-4DBC-BEF6-6C6AB6167887"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kilowott/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "touchesBegan(_:with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

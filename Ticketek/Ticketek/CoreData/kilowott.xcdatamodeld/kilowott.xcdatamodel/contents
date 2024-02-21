@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21754" systemVersion="22G120" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="MovieList" representedClassName="MovieList" syncable="YES" codeGenerationType="class">
+        <attribute name="backdropImage" optional="YES" attributeType="String"/>
+        <attribute name="overview" optional="YES" attributeType="String"/>
+        <attribute name="posterImage" optional="YES" attributeType="String"/>
+        <attribute name="rate" optional="YES" attributeType="String"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+        <attribute name="watchList" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="year" optional="YES" attributeType="String"/>
+    </entity>
+</model>
