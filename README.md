@@ -1,4 +1,4 @@
-# Movie-Shows
+# Ticketek
 Create a Movie/TV Show App implementing the MVVM Design Pattern
 
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-10-24 at 10 44 22](https://github.com/TapanKumar67/Movie-Shows/assets/148809898/4988df59-f632-4acd-8605-87ce090f902a)
